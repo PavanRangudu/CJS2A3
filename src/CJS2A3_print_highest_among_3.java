@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CJS2A4_print_highest_among_3 {
+public class CJS2A3_print_highest_among_3 {
 
 	public static void main(String s[]) {
 		Scanner input = new Scanner(System.in);
